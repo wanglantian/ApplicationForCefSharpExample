@@ -1,0 +1,293 @@
+[0130/004156.374:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0130/004156.374:ERROR:gl_surface_egl.cc(952)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0130/004156.374:ERROR:gl_initializer_win.cc(196)] GLSurfaceEGL::InitializeOneOff failed.
+[0130/004156.379:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0130/004156.777:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0130/004156.787:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0130/005043.956:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0130/005043.956:ERROR:gl_surface_egl.cc(952)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0130/005043.956:ERROR:gl_initializer_win.cc(196)] GLSurfaceEGL::InitializeOneOff failed.
+[0130/005043.956:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0130/005044.268:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0130/005044.283:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0130/005058.253:INFO:CONSOLE(730)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (730)
+[0130/005058.254:INFO:CONSOLE(730)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (730)
+[0130/005058.301:INFO:CONSOLE(4)] "Uncaught ReferenceError: c is not defined", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js (4)
+[0130/005058.335:INFO:CONSOLE(179)] "同学，祝贺你喜提彩蛋~
+或许你们还在犹豫是否加入，我会坦诚的告诉你我们超酷；
+在这里大家都用无人车代步，AI音箱不仅播放还可以交互；
+人工智能是发展的核心技术，做自己让未来不只领先几步；
+在这里做自己，欢迎来到百度！
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js (179)
+[0130/005058.335:INFO:CONSOLE(179)] "%c百度2019校园招聘简历提交：http://dwz.cn/XpoFdepe （你将有机会直接获得面试资格）", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js (179)
+[0130/005455.878:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0130/005455.878:ERROR:gl_surface_egl.cc(952)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0130/005455.878:ERROR:gl_initializer_win.cc(196)] GLSurfaceEGL::InitializeOneOff failed.
+[0130/005455.878:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0130/005456.252:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0130/005456.252:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0130/005511.940:INFO:CONSOLE(730)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (730)
+[0130/005511.941:INFO:CONSOLE(730)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (730)
+[0130/005511.970:INFO:CONSOLE(4)] "Uncaught ReferenceError: c is not defined", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js (4)
+[0130/005512.002:INFO:CONSOLE(179)] "同学，祝贺你喜提彩蛋~
+或许你们还在犹豫是否加入，我会坦诚的告诉你我们超酷；
+在这里大家都用无人车代步，AI音箱不仅播放还可以交互；
+人工智能是发展的核心技术，做自己让未来不只领先几步；
+在这里做自己，欢迎来到百度！
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js (179)
+[0130/005512.002:INFO:CONSOLE(179)] "%c百度2019校园招聘简历提交：http://dwz.cn/XpoFdepe （你将有机会直接获得面试资格）", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js (179)
+[0130/005746.068:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0130/005746.068:ERROR:gl_surface_egl.cc(952)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0130/005746.068:ERROR:gl_initializer_win.cc(196)] GLSurfaceEGL::InitializeOneOff failed.
+[0130/005746.068:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0130/005746.271:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0130/005746.271:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0130/005758.088:INFO:CONSOLE(730)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (730)
+[0130/005758.089:INFO:CONSOLE(730)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (730)
+[0130/005758.118:INFO:CONSOLE(4)] "Uncaught ReferenceError: c is not defined", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js (4)
+[0130/005758.180:INFO:CONSOLE(179)] "同学，祝贺你喜提彩蛋~
+或许你们还在犹豫是否加入，我会坦诚的告诉你我们超酷；
+在这里大家都用无人车代步，AI音箱不仅播放还可以交互；
+人工智能是发展的核心技术，做自己让未来不只领先几步；
+在这里做自己，欢迎来到百度！
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js (179)
+[0130/005758.180:INFO:CONSOLE(179)] "%c百度2019校园招聘简历提交：http://dwz.cn/XpoFdepe （你将有机会直接获得面试资格）", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js (179)
+[0130/005809.076:INFO:CONSOLE(1)] "Uncaught ReferenceError: etag_ngx_str is not defined", source: https://sbeacon.sina.com.cn/h.js (1)
+[0130/005814.034:INFO:CONSOLE(24)] "Mixed Content: The page at 'https://www.sina.com.cn/' was loaded over HTTPS, but requested an insecure script 'http://city.sina.com.cn/js/83/2014/0509/48.js'. This request has been blocked; the content must be served over HTTPS.", source: https://www.sina.com.cn/ (24)
+[0130/005814.061:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.sina.com.cn/' was loaded over HTTPS, but requested an insecure image 'http://n.sinaimg.cn/jiangsu/transform/130/w65h65/20190116/7oDZ-hrsechc7500324.png'. This content should also be served over HTTPS.", source: https://www.sina.com.cn/ (0)
+[0130/005814.065:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.sina.com.cn/' was loaded over HTTPS, but requested an insecure image 'http://n.sinaimg.cn/jiangsu/transform/175/w105h70/20190116/OeTZ-hrsechc7515871.jpg'. This content should also be served over HTTPS.", source: https://www.sina.com.cn/ (0)
+[0130/005814.065:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.sina.com.cn/' was loaded over HTTPS, but requested an insecure image 'http://n.sinaimg.cn/jiangsu/175/w105h70/20190116/8xnW-hrsechc7591170.png'. This content should also be served over HTTPS.", source: https://www.sina.com.cn/ (0)
+[0130/005814.140:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.sina.com.cn/' was loaded over HTTPS, but requested an insecure image 'http://src.leju.com/imp/imp/deal/66/a2/1/b13cfdecfa477e9c2cdee9862e1_p24_mk24.jpg'. This content should also be served over HTTPS.", source: https://www.sina.com.cn/ (0)
+[0130/005819.603:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0130/005819.603:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0130/010821.128:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0130/010821.128:ERROR:gl_surface_egl.cc(952)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0130/010821.128:ERROR:gl_initializer_win.cc(196)] GLSurfaceEGL::InitializeOneOff failed.
+[0130/010821.128:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0130/010821.567:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0130/010821.582:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0130/010821.582:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0130/010834.262:INFO:CONSOLE(730)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (730)
+[0130/010834.262:INFO:CONSOLE(730)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (730)
+[0130/010834.333:INFO:CONSOLE(179)] "同学，祝贺你喜提彩蛋~
+或许你们还在犹豫是否加入，我会坦诚的告诉你我们超酷；
+在这里大家都用无人车代步，AI音箱不仅播放还可以交互；
+人工智能是发展的核心技术，做自己让未来不只领先几步；
+在这里做自己，欢迎来到百度！
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js (179)
+[0130/010834.333:INFO:CONSOLE(179)] "%c百度2019校园招聘简历提交：http://dwz.cn/XpoFdepe （你将有机会直接获得面试资格）", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js (179)
+[0130/012138.483:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0130/012138.483:ERROR:gl_surface_egl.cc(952)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0130/012138.483:ERROR:gl_initializer_win.cc(196)] GLSurfaceEGL::InitializeOneOff failed.
+[0130/012138.498:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0130/012139.169:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0130/012139.185:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0130/012148.494:INFO:CONSOLE(730)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (730)
+[0130/012148.494:INFO:CONSOLE(730)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (730)
+[0130/012148.645:INFO:CONSOLE(179)] "同学，祝贺你喜提彩蛋~
+或许你们还在犹豫是否加入，我会坦诚的告诉你我们超酷；
+在这里大家都用无人车代步，AI音箱不仅播放还可以交互；
+人工智能是发展的核心技术，做自己让未来不只领先几步；
+在这里做自己，欢迎来到百度！
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js (179)
+[0130/012148.645:INFO:CONSOLE(179)] "%c百度2019校园招聘简历提交：http://dwz.cn/XpoFdepe （你将有机会直接获得面试资格）", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js (179)
+[0130/012154.828:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0130/012154.828:ERROR:gl_surface_egl.cc(952)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0130/012154.828:ERROR:gl_initializer_win.cc(196)] GLSurfaceEGL::InitializeOneOff failed.
+[0130/012154.828:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0130/012155.078:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0130/012155.094:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0130/012155.094:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0130/012226.045:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0130/012226.045:ERROR:gl_surface_egl.cc(952)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0130/012226.045:ERROR:gl_initializer_win.cc(196)] GLSurfaceEGL::InitializeOneOff failed.
+[0130/012226.045:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0130/012226.435:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0130/012226.450:ERROR:command_buffer_proxy_impl.cc(105)] ContextResult::kTransientFailure: Shared memory region is not valid
+[0130/012235.741:INFO:CONSOLE(730)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (730)
+[0130/012235.742:INFO:CONSOLE(730)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (730)
+[0130/012235.825:INFO:CONSOLE(4)] "Uncaught ReferenceError: c is not defined", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js (4)
+[0130/012235.845:INFO:CONSOLE(179)] "同学，祝贺你喜提彩蛋~
+或许你们还在犹豫是否加入，我会坦诚的告诉你我们超酷；
+在这里大家都用无人车代步，AI音箱不仅播放还可以交互；
+人工智能是发展的核心技术，做自己让未来不只领先几步；
+在这里做自己，欢迎来到百度！
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js (179)
+[0130/012235.845:INFO:CONSOLE(179)] "%c百度2019校园招聘简历提交：http://dwz.cn/XpoFdepe （你将有机会直接获得面试资格）", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_6509363.js (179)
+[0130/012252.125:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0130/012252.125:ERROR:gl_surface_egl.cc(952)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0130/012252.125:ERROR:gl_initializer_win.cc(196)] GLSurfaceEGL::InitializeOneOff failed.
+[0130/012252.125:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0130/012252.359:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0130/012252.375:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0130/012252.375:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0130/012528.759:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0130/012528.759:ERROR:gl_surface_egl.cc(952)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0130/012528.759:ERROR:gl_initializer_win.cc(196)] GLSurfaceEGL::InitializeOneOff failed.
+[0130/012528.759:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0130/012529.180:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0130/012529.195:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0130/012601.025:WARNING:resource_bundle.cc(353)] locale_file_path.empty() for locale 
+[0130/012601.025:ERROR:main_delegate.cc(707)] Could not load locale pak for en-US
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.072:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.290:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.290:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012601.337:WARNING:resource_bundle.cc(353)] locale_file_path.empty() for locale 
+[0130/012601.337:ERROR:main_delegate.cc(707)] Could not load locale pak for en-US
+[0130/012601.415:WARNING:resource_bundle.cc(353)] locale_file_path.empty() for locale 
+[0130/012601.415:ERROR:main_delegate.cc(707)] Could not load locale pak for en-US
+[0130/012602.539:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0130/012602.539:ERROR:gl_surface_egl.cc(952)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0130/012602.539:ERROR:gl_initializer_win.cc(196)] GLSurfaceEGL::InitializeOneOff failed.
+[0130/012602.539:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0130/012602.711:WARNING:resource_bundle.cc(353)] locale_file_path.empty() for locale 
+[0130/012602.711:ERROR:main_delegate.cc(707)] Could not load locale pak for en-US
+[0130/012602.742:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0130/012602.757:ERROR:browser_gpu_channel_host_factory.cc(139)] Failed to launch GPU process.
+[0130/012602.757:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0130/012730.272:WARNING:resource_bundle.cc(353)] locale_file_path.empty() for locale 
+[0130/012730.272:ERROR:main_delegate.cc(707)] Could not load locale pak for en-US
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.319:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.523:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.523:WARNING:resource_bundle.cc(910)] locale resources are not loaded
+[0130/012730.554:WARNING:resource_bundle.cc(353)] locale_file_path.empty() for locale 
+[0130/012730.554:ERROR:main_delegate.cc(707)] Could not load locale pak for en-US
+[0130/012730.726:WARNING:resource_bundle.cc(353)] locale_file_path.empty() for locale 
+[0130/012730.726:ERROR:main_delegate.cc(707)] Could not load locale pak for en-US
+[0130/012731.785:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0130/012731.785:ERROR:gl_surface_egl.cc(952)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0130/012731.785:ERROR:gl_initializer_win.cc(196)] GLSurfaceEGL::InitializeOneOff failed.
+[0130/012731.920:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0130/012732.188:WARNING:resource_bundle.cc(353)] locale_file_path.empty() for locale 
+[0130/012732.188:ERROR:main_delegate.cc(707)] Could not load locale pak for en-US
+[0130/012732.232:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0130/012732.324:ERROR:browser_gpu_channel_host_factory.cc(139)] Failed to launch GPU process.
+[0130/012732.325:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0303/134511.268:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0303/134511.300:ERROR:gl_surface_egl.cc(952)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0303/134511.300:ERROR:gl_initializer_win.cc(196)] GLSurfaceEGL::InitializeOneOff failed.
+[0303/134511.300:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0303/134512.049:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0303/134512.050:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0303/134526.544:INFO:CONSOLE(715)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_aac8127.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (715)
+[0303/134526.544:INFO:CONSOLE(715)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_aac8127.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (715)
+[0303/134526.625:INFO:CONSOLE(4)] "Uncaught ReferenceError: c is not defined", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js (4)
+[0303/134526.641:INFO:CONSOLE(179)] "同学，祝贺你喜提彩蛋~
+或许你们还在犹豫是否加入，我会坦诚的告诉你我们超酷；
+在这里大家都用无人车代步，AI音箱不仅播放还可以交互；
+人工智能是发展的核心技术，做自己让未来不只领先几步；
+在这里做自己，欢迎来到百度！
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_aac8127.js (179)
+[0303/134526.641:INFO:CONSOLE(179)] "%c百度2019校园招聘简历提交：http://dwz.cn/XpoFdepe （你将有机会直接获得面试资格）", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_aac8127.js (179)
+[0303/134538.739:INFO:CONSOLE(57)] "[object Arguments]", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_aac8127.js (57)
+[0303/134538.739:INFO:CONSOLE(1)] "Uncaught TypeError: jQuery1102013873593470783718_1551591926519 is not a function", source: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=tia&json=1&p=3&sid=1451_21091_18560_28584_28557_28518_28413&req=2&csor=3&pwd=ti&cb=jQuery1102013873593470783718_1551591926519&_=1551591926524 (1)
+[0303/134540.211:INFO:CONSOLE(57)] "[object Arguments]", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_aac8127.js (57)
+[0303/134540.211:INFO:CONSOLE(1)] "Uncaught TypeError: jQuery1102013873593470783718_1551591926519 is not a function", source: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%A4%A9%E6%B0%94&json=1&p=3&sid=1451_21091_18560_28584_28557_28518_28413&req=2&pbs=%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5&csor=2&pwd=tianqi&cb=jQuery1102013873593470783718_1551591926519&_=1551591926528 (1)
+[0303/134555.264:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0303/134555.264:ERROR:gl_surface_egl.cc(952)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0303/134555.264:ERROR:gl_initializer_win.cc(196)] GLSurfaceEGL::InitializeOneOff failed.
+[0303/134555.264:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0303/134555.467:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0303/134555.467:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0303/134731.628:ERROR:gl_surface_egl.cc(537)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0303/134731.628:ERROR:gl_surface_egl.cc(952)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0303/134731.628:ERROR:gl_initializer_win.cc(196)] GLSurfaceEGL::InitializeOneOff failed.
+[0303/134731.632:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0303/134732.025:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0303/134732.037:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0303/134740.086:INFO:CONSOLE(715)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_aac8127.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (715)
+[0303/134740.086:INFO:CONSOLE(715)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_aac8127.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (715)
+[0303/134740.148:INFO:CONSOLE(4)] "Uncaught ReferenceError: c is not defined", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js (4)
+[0303/134740.171:INFO:CONSOLE(179)] "同学，祝贺你喜提彩蛋~
+或许你们还在犹豫是否加入，我会坦诚的告诉你我们超酷；
+在这里大家都用无人车代步，AI音箱不仅播放还可以交互；
+人工智能是发展的核心技术，做自己让未来不只领先几步；
+在这里做自己，欢迎来到百度！
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_aac8127.js (179)
+[0303/134740.171:INFO:CONSOLE(179)] "%c百度2019校园招聘简历提交：http://dwz.cn/XpoFdepe （你将有机会直接获得面试资格）", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_aac8127.js (179)
